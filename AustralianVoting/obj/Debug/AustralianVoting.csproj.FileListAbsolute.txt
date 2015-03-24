@@ -1,6 +1,0 @@
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\bin\Debug\AustralianVoting.exe.config
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\bin\Debug\AustralianVoting.exe
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\bin\Debug\AustralianVoting.pdb
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\obj\Debug\AustralianVoting.exe
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\obj\Debug\AustralianVoting.pdb
-c:\users\chetan\documents\visual studio 2013\Projects\AustralianVoting\AustralianVoting\obj\Debug\AustralianVoting.csprojResolveAssemblyReference.cache
